@@ -25,6 +25,7 @@ Check the pinned repositories below — each is a standalone engineering story.
 ### 📫 Contact
 
 - GitHub: [@PavelHopson](https://github.com/PavelHopson)
-- Email: `man773608 [at] gmail.com`
+- Telegram: [@EclipseHopson](https://t.me/EclipseHopson)
+- Instagram: [@PavelHopson](https://instagram.com/PavelHopson)
 
 <sub>Profile last updated: 2026-04-15</sub>
